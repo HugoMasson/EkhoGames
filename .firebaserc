@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "game-website-all"
+  },
+  "targets": {
+    "game-website-all": {
+      "hosting": {
+        "admin": [
+          "ekho-admin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
