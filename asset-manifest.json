@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EkhoGames/static/css/main.94ef3aed.css",
+    "main.js": "/EkhoGames/static/js/main.43000298.js",
+    "index.html": "/EkhoGames/index.html",
+    "main.94ef3aed.css.map": "/EkhoGames/static/css/main.94ef3aed.css.map",
+    "main.43000298.js.map": "/EkhoGames/static/js/main.43000298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ef3aed.css",
+    "static/js/main.43000298.js"
+  ]
+}
